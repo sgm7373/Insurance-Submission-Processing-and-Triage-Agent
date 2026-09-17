@@ -1,0 +1,6 @@
+company,coverage,state,revenue,employees,effective_date,loss_history,subcontractor_pct,submission_id
+Horizon Roofing Group,General Liability,California,6400000.0,,,Clean,15.0,TEST001
+BlueRock Builders LLC,General Liability,Texas,,27.0,2026-11-05,,25.0,TEST002
+Canyon Electrical Inc,General Liability,Arizona,2200000.0,18.0,,Clean,,TEST003
+,General Liability,Oregon,7100000.0,,,Clean,30.0,TEST004
+Silver State Concrete,General Liability,Nevada,4800000.0,31.0,2027-01-10,One minor claim,12.0,TEST005

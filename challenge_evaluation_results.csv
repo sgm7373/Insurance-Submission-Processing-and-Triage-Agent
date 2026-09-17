@@ -1,0 +1,41 @@
+submission_id,field,expected,predicted,correct
+TEST001,company,Horizon Roofing Group,Horizon Roofing Group,True
+TEST001,coverage,General Liability,General Liability,True
+TEST001,state,California,California,True
+TEST001,revenue,6400000,6400000.0,True
+TEST001,employees,42.0,,False
+TEST001,effective_date,2026-10-20,,False
+TEST001,loss_history,Clean,Clean,True
+TEST001,subcontractor_pct,15.0,15.0,True
+TEST002,company,BlueRock Builders LLC,BlueRock Builders LLC,True
+TEST002,coverage,General Liability,General Liability,True
+TEST002,state,Texas,Texas,True
+TEST002,revenue,3600000,,False
+TEST002,employees,27.0,27.0,True
+TEST002,effective_date,2026-11-05,2026-11-05,True
+TEST002,loss_history,,,True
+TEST002,subcontractor_pct,25.0,25.0,True
+TEST003,company,Canyon Electrical Inc,Canyon Electrical Inc,True
+TEST003,coverage,General Liability,General Liability,True
+TEST003,state,Arizona,Arizona,True
+TEST003,revenue,2200000,2200000.0,True
+TEST003,employees,18.0,18.0,True
+TEST003,effective_date,,,True
+TEST003,loss_history,Clean,Clean,True
+TEST003,subcontractor_pct,,,True
+TEST004,company,Northwest Mechanical LLC,,False
+TEST004,coverage,General Liability,General Liability,True
+TEST004,state,Oregon,Oregon,True
+TEST004,revenue,7100000,7100000.0,True
+TEST004,employees,,,True
+TEST004,effective_date,2026-12-15,,False
+TEST004,loss_history,Clean,Clean,True
+TEST004,subcontractor_pct,30.0,30.0,True
+TEST005,company,Silver State Concrete,Silver State Concrete,True
+TEST005,coverage,General Liability,General Liability,True
+TEST005,state,Nevada,Nevada,True
+TEST005,revenue,4800000,4800000.0,True
+TEST005,employees,31.0,31.0,True
+TEST005,effective_date,2027-01-10,2027-01-10,True
+TEST005,loss_history,One minor claim,One minor claim,True
+TEST005,subcontractor_pct,12.0,12.0,True

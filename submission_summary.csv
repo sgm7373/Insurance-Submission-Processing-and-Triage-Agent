@@ -1,0 +1,6 @@
+submission_id,company,state,revenue,status,missing_fields,next_action
+SUB001,ABC Roofing LLC,California,3200000,READY_FOR_MARKET,None,Continue to carrier review
+SUB002,Summit Contractors Inc,Texas,5500000,NEEDS_INFORMATION,"Loss history, Subcontractor percentage",Request missing information from broker
+SUB003,GreenLine Landscaping LLC,Arizona,1800000,NEEDS_INFORMATION,"Effective date, Subcontractor percentage",Request missing information from broker
+SUB004,Pacific Electrical Services,Oregon,4100000,NEEDS_INFORMATION,"Employee count, Loss history",Request missing information from broker
+SUB005,Desert Stone Masonry LLC,Nevada,2700000,READY_FOR_MARKET,None,Continue to carrier review

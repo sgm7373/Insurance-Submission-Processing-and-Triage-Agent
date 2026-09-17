@@ -1,0 +1,41 @@
+submission_id,field,expected,predicted,correct
+SUB001,company,ABC Roofing LLC,ABC Roofing LLC,True
+SUB001,coverage,General Liability,General Liability,True
+SUB001,state,California,California,True
+SUB001,revenue,3200000,3200000,True
+SUB001,employees,24.0,24.0,True
+SUB001,effective_date,2026-10-01,2026-10-01,True
+SUB001,loss_history,Clean,Clean,True
+SUB001,subcontractor_pct,20.0,20.0,True
+SUB002,company,Summit Contractors Inc.,Summit Contractors Inc,True
+SUB002,coverage,General Liability,General Liability,True
+SUB002,state,Texas,Texas,True
+SUB002,revenue,5500000,5500000,True
+SUB002,employees,38.0,38.0,True
+SUB002,effective_date,2026-11-15,2026-11-15,True
+SUB002,loss_history,,,True
+SUB002,subcontractor_pct,,,True
+SUB003,company,GreenLine Landscaping LLC,GreenLine Landscaping LLC,True
+SUB003,coverage,General Liability,General Liability,True
+SUB003,state,Arizona,Arizona,True
+SUB003,revenue,1800000,1800000,True
+SUB003,employees,16.0,16.0,True
+SUB003,effective_date,,,True
+SUB003,loss_history,Clean,Clean,True
+SUB003,subcontractor_pct,,,True
+SUB004,company,Pacific Electrical Services,Pacific Electrical Services,True
+SUB004,coverage,General Liability,General Liability,True
+SUB004,state,Oregon,Oregon,True
+SUB004,revenue,4100000,4100000,True
+SUB004,employees,,,True
+SUB004,effective_date,2026-12-01,2026-12-01,True
+SUB004,loss_history,,,True
+SUB004,subcontractor_pct,35.0,35.0,True
+SUB005,company,Desert Stone Masonry LLC,Desert Stone Masonry LLC,True
+SUB005,coverage,General Liability,General Liability,True
+SUB005,state,Nevada,Nevada,True
+SUB005,revenue,2700000,2700000,True
+SUB005,employees,21.0,21.0,True
+SUB005,effective_date,2027-01-01,2027-01-01,True
+SUB005,loss_history,One minor claim,One minor claim,True
+SUB005,subcontractor_pct,10.0,10.0,True
