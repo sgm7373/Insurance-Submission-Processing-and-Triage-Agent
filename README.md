@@ -618,5 +618,3 @@ The project is intentionally small, but the architecture demonstrates how submis
 
 M.S. Computer Science  
 Oregon State University
-
-Interests include AI evaluation, simulation validation, Python automation, and reliable engineering workflows.
