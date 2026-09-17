@@ -256,7 +256,7 @@ This demonstrates a limitation of deterministic extraction and identifies areas 
 
 The initial five submissions produced the following workflow distribution:
 
-![Insurance Submission Workflow Status](results/submission_dashboard.png)
+![Insurance Submission Workflow Status](submission_dashboard.png)
 
 ```text
 NEEDS_INFORMATION    3
